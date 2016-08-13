@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class Main {
 	
 	Scanner scan;
-	asdf
 	public Main()
 	{
 		scan = new Scanner(System.in);
