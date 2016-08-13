@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Main {
 	
 	Scanner scan;
+	int a;
 	public Main()
 	{
 		scan = new Scanner(System.in);
